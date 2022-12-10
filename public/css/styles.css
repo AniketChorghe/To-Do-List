@@ -2,7 +2,7 @@ html {
 
     background-color: #EAE9FD;
   
-    background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #EAE9FD 50%);
+    background-image: -webkit-linear-gradient(65deg, #F3CCFF 50%, #D8FFCC 50%);
   
     min-height: 1000px;
   
@@ -14,7 +14,7 @@ html {
   
   h1 {
   
-    color: #fff;
+    color: #fff ;
   
     padding: 10px;
   
@@ -40,7 +40,7 @@ html {
   
   #heading {
   
-    background-color: #A683E3;
+    background-color: #F3CCFF;
   
     text-align: center;
   
@@ -127,7 +127,7 @@ html {
   
     background-color: #A683E3;
   
-    color: yellow;
+    color: #CBEDD5;
   
     font-size: 30px;
   
@@ -183,10 +183,10 @@ html {
   
   footer {
   
-    color: white;
-  
+    color: black;
+    font-family: 'Roboto', sans-serif;
     color: rgb (0, 0, 0, 0.5);
-  
+    
     text-align: center;
   
   }
